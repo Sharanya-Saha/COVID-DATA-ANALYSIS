@@ -4,9 +4,9 @@ CS685A ASSIGNMENT 1 README
 
 Assignment 1 for CS685A: Data Mining by Sharanya Saha (21111056).
 The assignment is coded in python 3.8.10 and requires the installation of the following packages:
-	-> numpy
-	-> pandas
-	-> DateTime
+	1. numpy
+	2. pandas
+	3. DateTime
 The required packages can be installed using the following command:
 	pip install -r requirements.txt	
 
